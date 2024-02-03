@@ -1,0 +1,12 @@
+{
+  "displayName": "Button",
+  "components": [
+    {
+      "name": "Button",
+      "manifest": "./src/components/Button/manifest.json"
+    }
+  ],
+  "author": "",
+  "description": "",
+  "logo": "./example-logo.png"
+}

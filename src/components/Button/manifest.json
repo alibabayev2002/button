@@ -1,0 +1,21 @@
+{
+  "displayName": "Button",
+  "defaultWidth": 160,
+  "defaultHeight": 24,
+  "components": "./index.js",
+  "icon": "./example-thumbnail.png",
+  "props": [
+    {
+      "name": "title",
+      "displayName": "Title",
+      "type": "text",
+      "default": "Open"
+    },
+    {
+      "name": "link",
+      "displayName": "Link",
+      "type": "text",
+      "default": "https://newave.az"
+    }
+  ]
+}
